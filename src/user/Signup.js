@@ -97,7 +97,6 @@ const Signup = () => {
             { successMessage() }
             { errorMessage() }
             { SignupForm() }
-            { JSON.stringify(values) }
         </Base>
     )
 }

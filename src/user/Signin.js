@@ -100,7 +100,6 @@ const Signin = () => {
             { errorMessage() }
             { SigninForm() }
             { performRedirect() }
-            { JSON.stringify(values) }
         </Base>
     )
 }
