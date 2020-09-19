@@ -18,26 +18,26 @@ npm start
 ## <h3 align="center"> <b> Project Images </b> </h3>
 
 HomePage
-![HomePage](Image/Home.png)
+![HomePage](Image/Home.PNG)
 
 SignUp Page
-![SignupPage](Image/Signup.png)
+![SignupPage](Image/Signup.PNG)
 
 SignIn Page
-![SigninPage](Image/Signin.png)
+![SigninPage](Image/Signin.PNG)
 
 Admin DashBoard
-![Admin Dashboard](Image/AdminDashboard.png)
+![Admin Dashboard](Image/AdminDashboard.PNG)
 
 Create Category
-![Create Category](Image/CreateCategory.png)
+![Create Category](Image/CreateCategory.PNG)
 
 <!-- Manage Category Remaining -->
 
 Create Product
-![Create Product](Image/createProduct.png)
+![Create Product](Image/createProduct.PNG)
 
 Manage Product
-![Manage Product](Image/ManageProduct.png)
+![Manage Product](Image/ManageProduct.PNG)
 
 <!-- Cart Page Remaining -->
